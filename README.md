@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iskender
 
-- 👀 I'm a Software Crafter from Istanbul,Turkey .
-I am passionate developer,tech addict and my motto is "stay hungry stay foolish".
+- 👀 I am calling myself a Software Crafter, Passionate developer and Tech addict.
+My motto is "Think Fast, Move Fast, Fail Fast, Learn Fast, Succeed Fast.".
 Some of my developed projects :
 
 thyfoon.com<br>
@@ -13,6 +13,7 @@ beynimdekifiller.com<br>
 - 📫 How to reach me ...
 
 http://www.iskenderatasoy.com<br>
+https://medium.com/@iskenderatasoy<br>
 https://tr.linkedin.com/in/iatasoy<br>
 
 <!---
