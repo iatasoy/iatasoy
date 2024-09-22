@@ -1,14 +1,5 @@
-- 👋 Hi, I’m Iskender
-
-- 👀 I am calling myself a Software Crafter, Passionate developer and Tech addict.
-My motto is "Think Fast, Move Fast, Fail Fast, Learn Fast, Succeed Fast.".
-Some of my developed projects :
-
-thyfoon.com<br>
-nasilbirfirma.com<br>
-kayipsozler.com<br>
-favorisozler.com<br>
-beynimdekifiller.com<br>
+- 👀 Hi, I'm Iskender.
+Hello ! I'm Iskender, a seasoned Software Crafter and Technical Coach based in Istanbul, Turkey, with a passion for continuous learning and a knack for problem-solving. With a mantra of "Think Fast, Move Fast, Fail Fast, Learn Fast, Succeed Fast," I embody agility and adaptability in the ever-evolving tech landscape.
 
 - 📫 How to reach me ...
 
