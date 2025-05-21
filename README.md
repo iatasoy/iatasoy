@@ -1,4 +1,4 @@
-Hello ! I'm Iskender, a seasoned Software Crafter and Technical Coach based in Istanbul, Turkey, with a passion for continuous learning and a knack for problem-solving. With a mantra of "Think Fast, Move Fast, Fail Fast, Learn Fast, Succeed Fast," I embody agility and adaptability in the ever-evolving tech landscape.
+Tech Entrepreneur & Software Engineer with 20+ yrs in architecture, full-stack dev, and scalable fintech/telecom apps. Skilled in startups & team leadership.
 
 - 📫 How to reach me ...
 
